@@ -1,0 +1,25 @@
+#shadow:hover {
+    background-color: rgba(155, 158, 158, 0.133);
+}
+#zonaotro {
+    color: red;
+    display: flex;
+    max-width: 500px;
+    height: 250px;
+    background: #aaa;
+    border: 2px solid #000;
+    justify-content: center;
+    align-items: center;
+}
+#zonaotro:hover {
+    opacity: 0.5;
+}
+#hola {
+    color: red;
+}
+.medidaImagen{
+  width: 100px; 
+  height: 100px;
+
+}
+
